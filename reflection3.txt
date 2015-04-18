@@ -1,0 +1,5 @@
+manual commits
+
+the overall pro of having to make manual commits is that you can determine when something is worthy of being committed. By having this control you are not at the mercy of any other system making what you would deem to many or to few commits.
+
+the overall con of manual commits is that you are on your own, if you forget to commit or nake poor commitment choices there is nothing in place to remind, stop, or correct you.

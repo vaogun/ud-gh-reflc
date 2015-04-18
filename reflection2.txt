@@ -1,0 +1,1 @@
+Having access to the entire history of a file can make you a more efficient programmer because it gives you access to the "life" of a file. You will be able to see challenging changes and "hotspots" (areas in the file subject to frequent change), you will also have an idea of why certain decisions were made in the file.

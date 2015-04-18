@@ -1,0 +1,1 @@
+when you initialize a repository a .git file is created that will store the meta-data for the repository. this is why we initialize repositories.

@@ -1,0 +1,1 @@
+version control would definitely make you more confident about breaking things because if you break something you can simply go back to what you had in before the break.

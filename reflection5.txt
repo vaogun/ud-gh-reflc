@@ -1,0 +1,1 @@
+you can use git log to view the history of all commits. You can use git diff to compare files and the changes made from one commit to another.

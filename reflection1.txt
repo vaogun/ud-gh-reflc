@@ -1,0 +1,3 @@
+I am enjoying the class thus far. I have been anxious to dive right back into Android development, but I think doing so with a solid understanding of Version Control, Git, and GitHub will make life mcuh easier! Thanks Carolyn and Sarah!
+
+It was cool using diff to compare files and find the bugs. Simple, but quite effective.
