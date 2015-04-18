@@ -1,0 +1,1 @@
+staging area is different from the working directory and the repository, because it is the intermediary between the two. we select information in the working directory that we want and add it to the staging directory. we then commit from the staging area to the repository. The staging area provides more flexibility in committing.
