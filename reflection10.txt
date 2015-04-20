@@ -1,0 +1,1 @@
+The loading up of the staging area help in the process of making one logical change be commit as you can simply load up the files that represent a single logical change into the staging area and write your commit message. If you have other logical changes that you need to commit you can load them up into the staging area next and give them their own distinct commit message.

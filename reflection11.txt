@@ -1,0 +1,1 @@
+it is helpful to use branches when you want to do something experimental or more generally when you are engaging in a context shift. Branches help because they can separate your code when a context shift occurs.

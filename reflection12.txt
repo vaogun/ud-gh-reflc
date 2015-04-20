@@ -1,0 +1,1 @@
+Diagrams help you visualize the branch structure because they are an actual picture of the branch structure.
