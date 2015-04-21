@@ -1,0 +1,1 @@
+The result of merging two branches togther is a merged branch. We represent it in the diagram the way that we do so that we can see the child-parent relationship.
