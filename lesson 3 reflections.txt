@@ -18,3 +18,7 @@ branches are used for experimental features.
 What is the benefit of having a copy of the last known state of the remote locally stored?
 
 Doing this allows us to compare the code in our local repository to the most up-to-date project code, so the we can resolve any conflicts that we need to.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We could use some other VCS and website. Anything less than this is archaic at this point.
