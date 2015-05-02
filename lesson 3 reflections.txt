@@ -22,3 +22,7 @@ Doing this allows us to compare the code in our local repository to the most up-
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 We could use some other VCS and website. Anything less than this is archaic at this point.
+
+When would you want to make changes in a searate branch rather than directly in the master? What benefits does each approach have?
+
+When you are working collaboratively and you want to make changes to master only through using pull request. If you made changes directly to 'master' then changes would not be checked before being committed and changes may take place without collaborators knowing.
